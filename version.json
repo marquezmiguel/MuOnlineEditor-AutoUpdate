@@ -1,8 +1,8 @@
 {
   "updateInfo": {
     "version": "1.0.4",
-    "downloadLinkWindows": "https://example.com/downloads/update-1.2.3-windows",
-    "downloadLinkMac": "https://example.com/downloads/update-1.2.3-mac",
-    "downloadLinkLinux": "https://example.com/downloads/update-1.2.3-linux"
+    "downloadLinkWindows": "https://example.com/MuOnlineEditor/downloads/v1.0.4/Windows/MuOnlineEditor.exe",
+    "downloadLinkMac": "https://example.com/MuOnlineEditor/downloads/v1.0.4/macOS/MuOnlineEditor.dmg",
+    "downloadLinkLinux": "https://example.com/MuOnlineEditor/downloads/v1.0.4/Linux/MuOnlineEditor"
   }
 }
